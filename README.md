@@ -1,11 +1,11 @@
 # pyWWTP
-Python simulation for a Waste Watewr Treatment Plant (WWTP).
+Python simulation for a Waste Watewr Treatment Plant (WWTP) or multiple treatment plants in a geographic area.
 
 This project intends to provide a simulation of a wastewater treatment plant. The focus is on providing IO to develop PLC programs and SCADA solutions against.
 
 Reliable process data (BOD, COD, TOC ect.) predictions are not in focus but may be added later.
 
-The aim also is to have a solid code base. Duct tape is to be avoided.
+The aim also is to have a solid code base. Duct tape solutions are to be avoided.
 
 ## Just throwing key words in a list
 * use TDD
